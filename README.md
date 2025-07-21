@@ -153,7 +153,3 @@ Make sure `.env` is listed in `.gitignore` to avoid accidentally uploading it:
 Wayne Chung
 
 ---
-
-## 📄 License
-
-MIT License
